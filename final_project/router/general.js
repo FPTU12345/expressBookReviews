@@ -182,7 +182,3 @@ public_users.get('/title/:title',function (req, res) {
 });
 
 module.exports.general = public_users;
-  return res.status(300).json({message: "Yet to be implemented"});
-});
-
-module.exports.general = public_users;
